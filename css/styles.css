@@ -1,0 +1,11 @@
+body {
+    color: yellow;
+    background-color: teal;
+    text-align: center;
+}
+
+img {
+    border-style: outset;
+    border-width: 4px;
+    border-color: yellow;
+}
